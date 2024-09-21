@@ -1,3 +1,4 @@
 **/.pybryt_cache/
 **/__pycache__/
 **/.ipynb_checkpoints/
+.ipynb.orig
